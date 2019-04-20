@@ -53,6 +53,7 @@
 							</button>
 							<button class="btn btn-danger btn-sm">
 								<span class="glyphicon glyphicon-trash" aria-hidden="true"></span>
+								删除
 							</button>
 						</th>
 					</tr>

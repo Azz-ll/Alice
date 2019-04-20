@@ -59,7 +59,7 @@ public class MvcTest {
 		//获取员工数据
 		List<Employee> list=pi.getList();
 		for(Employee employee : list) {
-			System.out.println("ID: "+employee.getEmpId()+"==>Name:"+employee.getEmpName());
+			System.out.println("ID: "+employee.getEmpId()+"==>Name:"+employee.getEmpName()+ employee.getDepartment());
 		}
 	}
 }
